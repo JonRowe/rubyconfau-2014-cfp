@@ -6,9 +6,10 @@ My talk description.
 
 My bio.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/example/profile_picture.jpg)
+![Profile picture](./profile_picture.jpg)
 
-- [My website](http://example.com)
-- [My twitter](https://twitter.com/twitter-handle)
-- [Past talk slides](http://example.com)
-- [Past talk video](http://example.com)
+- [jonrowe.co.uk](http://jonrowe.co.uk)
+- [@jonrowe](https://twitter.com/JonRowe)
+- [Past talk slides](https://speakerdeck.com/jonrowe)
+- [Past talk video: RoRoSyd Talk (Abusing the Router)](http://vimeo.com/62675282)
+- [Past talk video: RubyConfAU '13 Lightning Talk (Black / White)](http://vimeo.com/61342270)
